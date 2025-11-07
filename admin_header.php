@@ -17,7 +17,7 @@ $user = current_user();
     <div class="wrap">
         <div class="logo">
             <a href="/webcemom/novedades.php">
-                <img src="/webcemom/logo.png" alt="CEMOM Admin Logo">
+                <img src="logo.png" alt="logo">
             </a>
             <div class="menu-toggle">
   <span></span>

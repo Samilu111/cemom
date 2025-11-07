@@ -16,7 +16,7 @@ $user = is_logged_in() ? current_user() : null;
     <div class="wrap">
         <div class="logo">
             <a href="/webcemom/index.php">
-                <img src="/webcemom/logo.png" alt="CEMOM Logo">
+                <img src="logo.png" alt="logo">
             </a>
             <div class="menu-toggle">
   <span></span>
